@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\JCRiosJ\Documents\Android Studio\Dibuja1\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="C:\Users\JCRiosJ\Documents\Android Studio\Dibuja1\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_1fc4372d0d47158f74b2cc257daf6e7436241acf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\JCRiosJ\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="C:\Users\JCRiosJ\Documents\Android Studio\Dibuja1\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-18.0.0_a422e7cd907c773ca5ab7ef12ee5157a83776a60\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\JCRiosJ\Documents\Android Studio\Dibuja1\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2b9d0d8eeb2bb0f497bd7b6f5d1a4d80b00e5184">
+        <dex dex="C:\Users\JCRiosJ\Documents\Android Studio\Dibuja1\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_afd3d5b29354625c553db94ebc3de7871238f30f\classes.dex" />
+    </item>
+
+</items>

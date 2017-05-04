@@ -1,0 +1,4 @@
+#Sat Mar 25 18:02:43 CST 2017
+base.0=C\:\\Users\\JCRiosJ\\Documents\\Android Studio\\Dibuja1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-v4-18.0.0_a422e7cd907c773ca5ab7ef12ee5157a83776a60
+renamed.0=classes.dex
+file.0=C\:\\Users\\JCRiosJ\\Documents\\Android Studio\\Dibuja1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-v4-18.0.0_a422e7cd907c773ca5ab7ef12ee5157a83776a60\\classes.dex
